@@ -12,13 +12,17 @@ The Data we like to Get from antares are like this. It is in JSON Format, so we 
 This Repository contain:<br>
 - AIA Files for load Mobile Application Files in MIT APP INVENTOR website.
 
-Kodular's Code Block: <br>
-![image](https://user-images.githubusercontent.com/80795963/175804092-de18e786-74a0-4855-b0d6-5102d33aeb5b.png)
-![image](https://user-images.githubusercontent.com/80795963/175804113-f38c5e21-9892-4275-8c0b-7522e8504893.png)
+Mobile APP's Code Block: <br>
+![image](https://user-images.githubusercontent.com/80795963/220087885-0ea84c2a-5f90-4198-b4d5-fce9cc6e55cb.png)
+![image](https://user-images.githubusercontent.com/80795963/220088010-d1fe76d1-0619-4d6d-82c5-92acd90383de.png)
+![image](https://user-images.githubusercontent.com/80795963/220088178-08bf69ca-eb35-4081-be41-1c11a0296ecb.png)
+
 <br>
-Kodular's Design: <br>
+Mobile App's Design: <br>
 ![image](https://user-images.githubusercontent.com/80795963/220087163-f01cd481-0316-464d-a46f-7f41184f2da8.png)
+![image](https://user-images.githubusercontent.com/80795963/220087480-66cf4b17-6499-42d4-8671-2d86c1e7805c.png)
 
 <br>
 
-https://youtube.com/shorts/GHFmc31nDlc?feature=share
+Parsing JSON on Mit App Inventor Tutorial: <br>
+https://geeknesia.freshdesk.com/support/solutions/articles/6000101587-aplikasi-android-part-1-monitoring-suhu-dan-kelembaban-menggunakan-app-inventor-geeknesia-
