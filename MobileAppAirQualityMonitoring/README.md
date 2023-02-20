@@ -19,8 +19,9 @@ Mobile APP's Code Block: <br>
 
 <br>
 Mobile App's Design: <br>
-![image](https://user-images.githubusercontent.com/80795963/220087163-f01cd481-0316-464d-a46f-7f41184f2da8.png)
-![image](https://user-images.githubusercontent.com/80795963/220087480-66cf4b17-6499-42d4-8671-2d86c1e7805c.png)
+![image](https://user-images.githubusercontent.com/80795963/220089443-6c61a6de-35c4-4bec-befd-c2bc42807f48.png)
+![image](https://user-images.githubusercontent.com/80795963/220089639-3095355e-a208-4961-9711-985862fc4bd9.png)
+
 
 <br>
 
